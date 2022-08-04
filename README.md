@@ -1,2 +1,6 @@
-# HDFS-deep-dive
-Learning the internals of HDFS from the perspective of a troubleshooter!
+# HDFS Deep Dive
+
+WIP
+
+#~DiBtP~
+#"Done is Better than Perfect!"
